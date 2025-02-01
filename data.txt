@@ -1,0 +1,23 @@
+[
+    {
+        "name": "banana",
+        "energy": 100.0,
+        "fibre": 12.0,
+        "sugar": 212.0,
+        "potassium": 32.0
+    },
+    {
+        "name": "ada",
+        "energy": 23.0,
+        "fibre": 12.0,
+        "sugar": 23.0,
+        "potassium": 34.0
+    },
+    {
+        "name": "sdvg",
+        "energy": 12.0,
+        "fibre": 23.0,
+        "sugar": 43.0,
+        "potassium": 45.0
+    }
+]
